@@ -18,7 +18,7 @@ The app also saves forecast data into a CSV file for further analysis.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Manav7322/Python-Projects/weather-cli-app.git
+   git clone https://github.com/Manav7322/Python-Projects
    cd weather-cli-app
    ```
 
